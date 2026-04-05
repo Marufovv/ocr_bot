@@ -1,1 +1,4 @@
-pyTelegramBotAPI
+aiogram==3.20.0
+pytesseract==0.3.13
+Pillow==11.2.1
+python-dotenv==1.0.1
